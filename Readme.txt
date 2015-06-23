@@ -1,25 +1,23 @@
-Plugin Name: WP Auto Tagging
+=== WP Auto Tagging ===
+Contributors: smjunaidiqbal
+Donate link: 
+Tags: Auto Tags Generator, Auto Tags, Tags Generator, Auto Tagging, Wordpress Auto Tags, WP Auto Tagging, Add Tags, Tags Generator
+Requires at least: 3.0.1
+Tested up to: 4.2.2
+Stable tag: 4.2.2
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Description: A Wordpress Plugin to Automatically Generate Tags for Posts and Pages.
+WP Auto Tagging Wordpress Plugin Will Automatically Generate & Add Tags to WP Posts.
 
-Version: 1.0
+== Description ==
 
-Author: Muhammad Junaid Iqbal
-
-Author URI: http://www.wallpapershdtop.com/
-
-License: GPL
-
-
-Description:
-============
-
-WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpress Posts and Pages. Please note that Plugin is under construction and it is its first release. I will keep it updating with passage of time, you should keep in touch for bugs and problems you find in plugin. WP Auto Tagging works best for big blog owners with more than 300 posts and pages because of its auto tagging functionality.
+WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpress Posts. Please note that Plugin is under construction and it is its first release. I will keep it updating with passage of time, you should keep in touch for bugs and problems you find in plugin. WP Auto Tagging works best for small & big blog owners with more than 300 posts and because of its auto tagging functionality.
 
 Why I Needed WP Auto Tagging Wordpress Plugin?
 ==============================================
 
-I needed WP Auto Tagging Wordpress Plugin for my HD Wallpapers website with more than 9,000 posts. All of the posts were missing tags and I was missing search traffic. I wanted to add 3-4 tags to all the published posts but it was taking lots of my time. I wanted to write a script which could automatically add 4 wordpress tags for all the published posts. You can visit http://www.wallpapershdtop.com/ for demo, how it is working.
+I needed WP Auto Tagging Wordpress Plugin for my HD Wallpapers website with more than 9,000 posts. All of the posts were missing tags and I was missing search traffic. I wanted to add 3-4 tags to all the published posts but it was taking lots of my time. I wanted to write a script which could automatically add 4 wordpress tags for all the published posts. You can visit http://www.wallpapershdtop.com/ for demo, which will show you how tags are added, I wanted to include 'wallpapers' tag for each generated tag. But for you it will generate single tags for every post which is missing tags. Please note plugin will not generate and add tags to posts already containing tags.
 
 Demo:
 =====
@@ -28,34 +26,57 @@ http://www.wallpapershdtop.com/
 Features:
 =========
 
-1. It will read post or page title and will split title into Tags and will add tags to all the posts and pages automatically.
+1. It will read post title and will split title into Tags and will add tags to all the posts automatically (posts which are missing tags).
 
-2. You do not need to manually insert tags for each post and page.
+2. You do not need anymore to manually insert tags for each post.
 
-3. Install WP Auto Tagging Wordpress Plugin, Activate it and tags will be added to all the posts and pages published already.
+3. Install WP Auto Tagging Wordpress Plugin, Activate it and tags will be added to all the posts published already.
 
 4. WP Auto Tagging will add tags to new published post automatically.
 
-5. WP Auto Tagging Supports Only One Word Tag.
+5. WP Auto Tagging Supports Only One Word Tag. If you want to add tags with more than one word you can contact me at smjunaidiqbal@gmail.com
 
 6. Plugin Will Skip Words in Title Less Than 4 Characters.
 
+7. Plugin will generate and add 6 tags for your published post, you can delete unwanted tags and can update post.
 
-Flaws:
-======
+8. All of the generated and added tags will not be deleted once you de-activate WP Auto Tagging Wordpress plugin.
 
-1. Once activated plugin will add tags to each post and page, you will be unable to restore posts/ pages even if plugin is deactivated in Version 1.0
+Note:- Take backup of MySQL tables to avoid any risks.
 
-2. Take Backup of Database to Avoid Any Risk
+
 
 
 Guidelines:
 ===========
 
-1. For Best Use of Plugin Make Your Post/ Page Title Enriched with Best Researched Keywords
+1. For Best Use of Plugin Make Your Post Title Enriched with Best Researched Keywords
 
 
-What is Next?
-=============
+== Installation ==
 
-1. Delete All Post/ Pages Tags Once WP Auto Tagging Plugin is Deactivated.
+1. Upload WP Auto Tagging Wordpress Plugin to WP-Content -> Plugins or Directly Install It from Plugins -> Add New -> WP Auto Tagging
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. There is No Admin Page, Activate It and See it in Action.
+
+== Frequently Asked Questions ==
+
+= Plugin is working slowly Why? =
+
+It depends how many posts you have, if you have posts in thousands, plugin will take time to generate and add tags to them. I will fix loading issue in next version.
+
+= Why there is no admin page? =
+
+I did not need admin page in version 1.0, but will add it in next updated version.
+
+== Screenshots ==
+
+1. 
+2.
+
+
+== Arbitrary section ==
+
+You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
+plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
+"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
