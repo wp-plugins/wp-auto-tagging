@@ -14,6 +14,24 @@ WP Auto Tagging Wordpress Plugin Will Automatically Generate & Add Tags to WP Po
 
 WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpress Posts. Please note that Plugin is under construction and it is its first release. I will keep it updating with passage of time, you should keep in touch for bugs and problems you find in plugin. WP Auto Tagging works best for small & big blog owners. Demo: http://www.wallpapershdtop.com/
 
+1. It will read post title and will split title into Tags and will add tags to all the posts automatically (posts which are missing tags).
+
+2. You do not need anymore to manually insert tags for each post.
+
+3. Install WP Auto Tagging Wordpress Plugin, Activate it and tags will be added to all the posts published already.
+
+4. WP Auto Tagging will add tags to new published post automatically.
+
+5. WP Auto Tagging Supports Only One Word Tag. If you want to add tags with more than one word you can contact me at smjunaidiqbal@gmail.com
+
+6. Plugin Will Skip Words in Title Less Than 4 Characters.
+
+7. Plugin will generate and add 6 tags for your published post, you can delete unwanted tags and can update post.
+
+8. All of the generated and added tags will not be deleted once you de-activate WP Auto Tagging Wordpress plugin.
+
+Note:- Take backup of MySQL tables to avoid any risks.
+
 
 
 == Installation ==
@@ -39,35 +57,7 @@ I did not need admin page in version 1.0, but will add it in next updated versio
 
 
 == Arbitrary section ==
-
-
-== A brief Markdown Example ==
-
-Features:
-=========
-
-1. It will read post title and will split title into Tags and will add tags to all the posts automatically (posts which are missing tags).
-
-2. You do not need anymore to manually insert tags for each post.
-
-3. Install WP Auto Tagging Wordpress Plugin, Activate it and tags will be added to all the posts published already.
-
-4. WP Auto Tagging will add tags to new published post automatically.
-
-5. WP Auto Tagging Supports Only One Word Tag. If you want to add tags with more than one word you can contact me at smjunaidiqbal@gmail.com
-
-6. Plugin Will Skip Words in Title Less Than 4 Characters.
-
-7. Plugin will generate and add 6 tags for your published post, you can delete unwanted tags and can update post.
-
-8. All of the generated and added tags will not be deleted once you de-activate WP Auto Tagging Wordpress plugin.
-
-Note:- Take backup of MySQL tables to avoid any risks.
-
-Demo:- http://www.wallpapershdtop.com/
-
-Why I Needed WP Auto Tagging Wordpress Plugin?
-==============================================
-
 I needed WP Auto Tagging Wordpress Plugin for my HD Wallpapers website with more than 9,000 posts. All of the posts were missing tags and I was missing search traffic. I wanted to add 3-4 tags to all the published posts but it was taking lots of my time. I wanted to write a script which could automatically add 4 wordpress tags for all the published posts. You can visit http://www.wallpapershdtop.com/ for demo, which will show you how tags are added, I wanted to include 'wallpapers' tag for each generated tag. But for you it will generate single tags for every post which is missing tags. Please note plugin will not generate and add tags to posts already containing tags.
+
+
 
