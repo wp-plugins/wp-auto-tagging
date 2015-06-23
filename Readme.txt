@@ -32,7 +32,7 @@ Demo: http://www.wallpapershdtop.com/
 
 8. All of the generated and added tags will not be deleted once you de-activate WP Auto Tagging Wordpress plugin.
 
-Note:- Take backup of MySQL tables to avoid any risks.
+Note:- Take backup of MySQL tables to avoid risks.
 
 
 
