@@ -16,7 +16,7 @@ WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpre
 
 Demo:
 =====
-http://www.wallpapershdtop.com/
+Demo goes here.
 
 
 
