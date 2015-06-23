@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP-Auto-Tagging
-Plugin URI: http://www.domain.com/
+Plugin URI: https://wordpress.org/plugins/wp-auto-tagging/
 Description: A Wordpress Plugin to Automatically Generate Tags for Posts and Pages.
 Version: 1.0
 Author: Muhammad Junaid Iqbal
