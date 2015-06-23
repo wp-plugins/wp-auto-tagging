@@ -12,11 +12,7 @@ WP Auto Tagging Wordpress Plugin Will Automatically Generate & Add Tags to WP Po
 
 == Description ==
 
-WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpress Posts. Please note that Plugin is under construction and it is its first release. I will keep it updating with passage of time, you should keep in touch for bugs and problems you find in plugin. WP Auto Tagging works best for small & big blog owners.
-
-Demo:
-=====
-Demo goes here.
+WP Auto Tagging is a free Wordpress plugin to automatically add tags for Wordpress Posts. Please note that Plugin is under construction and it is its first release. I will keep it updating with passage of time, you should keep in touch for bugs and problems you find in plugin. WP Auto Tagging works best for small & big blog owners. Demo: http://www.wallpapershdtop.com/
 
 
 
