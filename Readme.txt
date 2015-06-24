@@ -1,6 +1,5 @@
 === WP Auto Tagging ===
 Contributors: smjunaidiqbal
-Donate link: 
 Tags: Auto Tags Generator, Auto Tags, Tags Generator, Auto Tagging, Wordpress Auto Tags, WP Auto Tagging, Add Tags, Tags Generator
 Requires at least: 3.0.1
 Tested up to: 4.2.2
