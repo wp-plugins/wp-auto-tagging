@@ -77,7 +77,6 @@ if ($result->num_rows > 0) {
         }
 	}
 } 
-
 //Closing Database Connection
 $conn->close();
-?> 
+?>
